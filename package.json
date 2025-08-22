@@ -16,7 +16,7 @@
     "async-validator": "1.11.5",
     "axios": "^0.21.1",
     "babel-plugin-component": "^1.1.1",
-    "bootstrap": "^4.6.0",
+    "bootstrap": "^5.0.0",
     "bootstrap-vue": "^2.21.2",
     "codemirror": "^5.65.0",
     "date-fns": "^1.30.1",
